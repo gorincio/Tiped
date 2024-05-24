@@ -31,6 +31,7 @@ void TrainInfo::setFreeSeats(int seats) {
 std::string TrainInfo::getDepartureTime() const {
     return departureTime;
 }
+// new cod
 
 std::string TrainInfo::getDestination() const {
     return destination;
