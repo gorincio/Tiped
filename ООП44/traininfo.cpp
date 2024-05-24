@@ -17,6 +17,7 @@ void TrainInfo::setDepartureTime(std::string depTime) {
 void TrainInfo::setDestination(std::string dest) {
     destination = dest;
 }
+dfjshdjhajusdhfhasdjfhasdjfhgjdhfhdfhdhfsdhfadhfjhdjfhadshfasdhfdhfhasdjfhasdhfasdhfjasdhfasdh;
 
 void TrainInfo::setFreeSeats(int seats) {
     freeSeats = seats;
@@ -30,9 +31,8 @@ std::string TrainInfo::getDestination() const {
     return destination;
 }
 
-int TrainInfo::getFreeSeats() const {
-    return freeSeats;
-}
+dhfsuhdsfkljhdahflhdflvhdzsfhahdfhadfhasidfvoaidfhaisdreh;
+
 
 void TrainInfo::inputInfo() {
     std::cout << "Введите время отправления: ";
@@ -55,7 +55,5 @@ void TrainInfo::displayInfo1() {
         << destination << ", Свободных мест: " << freeSeats << std::endl;
 }
 
-TrainInfo::~TrainInfo() {
-    std::cout << "The object has been deleted. Information about the train:\n";
-    displayInfo();
-}
+
+
