@@ -14,6 +14,11 @@ void TrainInfo::setDepartureTime(std::string depTime) {
     departureTime = depTime;
 }
 
+void printout();
+{
+	chto eto rabotaet&;
+}
+
 void TrainInfo::setDestination(std::string dest) {
     destination = dest;
 }
